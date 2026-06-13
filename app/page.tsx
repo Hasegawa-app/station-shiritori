@@ -18,7 +18,7 @@ type UsedStation = {
   playerColor: string;
 };
 
-const INITIAL_TIME = 2 * 60;
+const INITIAL_TIME = 60;
 
 const PLAYER_COLORS = ["#ef4444", "#3b82f6", "#facc15", "#22c55e"];
 
